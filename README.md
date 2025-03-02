@@ -11,6 +11,7 @@ AtliQ Grand has been experiencing a decline in revenue. To address this, we cond
 - `dim_rooms.csv` - Room categories and details
 - `fact_aggregated_bookings.csv` - Aggregated booking data
 - `fact_bookings.csv` - Individual booking transactions
+-  new_data_august - Newly Genrated Data
 
 ## 🔍 Data Analysis Process
 We followed a structured approach:
